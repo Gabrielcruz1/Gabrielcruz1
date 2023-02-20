@@ -10,4 +10,4 @@ My unique experience in crisis management and behavioral therapy combined with m
 - 🔭 Software engineer
 - 💡 Problem solver
 - 🎹 Music enthusiast 
-- 📫 Contact - a.cruzgabriel98@gmail.com
+- 📫 Contact - GabrielCruz.swe@gmail.com
