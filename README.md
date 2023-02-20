@@ -7,7 +7,7 @@
 
 My unique experience in crisis management and behavioral therapy combined with my software engineering skills, allow me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
 
-- 🔭 Software engineering fellow enrolled in General Assembly's immersive bootcamp. 
+- 🔭 Software engineer
 - 💡 Problem solver
 - 🎹 Music enthusiast 
 - 📫 Contact - a.cruzgabriel98@gmail.com
