@@ -5,9 +5,9 @@
 
 ## 🧑🏻‍💻 About 
 
-My unique experience in crisis management and behavioral therapy combined with my software engineering skills, allow me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
+My software engineering skills combined with my unique experience in crisis management and behavioral therapy enable me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
 
-- 🔭 Software engineer
+- 🔭 Full Stack Software engineer
 - 💡 Problem solver
 - 🎹 Music enthusiast 
 - 📫 Contact - GabrielCruz.swe@gmail.com
