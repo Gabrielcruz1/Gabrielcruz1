@@ -6,7 +6,7 @@
 My software engineering skills combined with my unique experience in crisis management and behavioral therapy enable me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
 
  I'm currently <br>
-⚡️ Studying data-structures and algorith <br>
+⚡️ Studying data-structures and algorithms <br>
 ⚡️ Learning C <br>
 
 
