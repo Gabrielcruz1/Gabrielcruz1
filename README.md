@@ -33,3 +33,6 @@ My software engineering skills combined with my unique experience in crisis mana
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Stats 📊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabrielcruz1&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
