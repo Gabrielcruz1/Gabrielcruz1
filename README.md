@@ -7,6 +7,7 @@ My software engineering skills combined with my unique experience in crisis mana
 
  I'm currently <br>
 ⚡️ Studying data-structures and algorithms <br>
+⚡️ Building an e-commerce application
 <!-- ⚡️ Learning C <br> -->
 
 
