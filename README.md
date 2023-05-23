@@ -1,7 +1,7 @@
 <!--
 **Gabrielcruz1/Gabrielcruz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Hello 👋 I'm Gabriel 🌎🏄🏻‍♂️
+## Hi 👋 I'm Gabriel 🌎🏄🏻‍♂️
 
 My software engineering skills combined with my unique experience in crisis management and behavioral therapy enable me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
 
@@ -13,10 +13,10 @@ My software engineering skills combined with my unique experience in crisis mana
 
 
 ## About 🧑🏻‍💻 
-- 🔭 Full Stack Software engineer
-- 💡 Problem solver
-- 🎹 Music enthusiast 
-- 📫 Contact - GabrielCruz.swe@gmail.com
+- 🔭 Full Stack Software engineer 💻
+- 🧩 Problem solver 💡 
+- 🎹 Music enthusiast 🎸
+- 📫 Contact - GabrielCruz.swe@gmail.com ✅
 
 ## Tech Stack 🥞
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
