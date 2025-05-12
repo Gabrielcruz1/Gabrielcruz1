@@ -3,12 +3,7 @@
 -->
 ## Hi 👋 I'm Gabriel 🌎🏄🏻‍♂️
 
-My software engineering skills combined with my unique experience in crisis management and behavioral therapy enable me to create innovative and scalable solutions to complex problems with a poised and ready mindset. 
-
-<!-- I'm currently <br>
-⚡️ Studying data-structures and algorithms <br>
-⚡️ Building an e-commerce application
-<!-- ⚡️ Learning C <br> -->
+Software Engineer at IBM
 
 
 
