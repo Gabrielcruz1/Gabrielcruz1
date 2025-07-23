@@ -3,12 +3,12 @@
 -->
 ## Hi 👋 I'm Gabriel 👨🏻‍💻
 
-Software Engineer at IBM
+A Front-End software engineer with a passion for building performant, scalable web applications and internal tools that accelerate team productivity. With 3 years of experience developing with React, Node.js, and modern JavaScript, I specialize in crafting clean UIs, integrating CI/CD workflows, and writing automation tests that drive quality at scale.
 
 
 
 ## About 🧑🏻‍💻 
-- Front End Software Engineer 💻
+- Front-End Software Engineer 💻
 - Problem solver 💡 
 - Contact - GabrielCruz.swe@gmail.com 📫 
 
