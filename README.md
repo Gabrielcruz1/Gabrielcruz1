@@ -5,12 +5,8 @@
 
 A Front-End software engineer with a passion for building performant, scalable web applications and internal tools that accelerate team productivity. With 3 years of experience developing with React, Node.js, and modern JavaScript, I specialize in crafting clean UIs, integrating CI/CD workflows, and writing automation tests that drive quality at scale.
 
+Contact - GabrielCruz.swe@gmail.com 📫 
 
-
-## About 🧑🏻‍💻 
-- Front-End Software Engineer 💻
-- Problem solver 💡 
-- Contact - GabrielCruz.swe@gmail.com 📫 
 
 ## Tech Stack 🥞
 ### Front-End 
@@ -40,6 +36,7 @@ A Front-End software engineer with a passion for building performant, scalable w
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 
